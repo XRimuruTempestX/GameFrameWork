@@ -1,0 +1,20 @@
+{
+  "name": "com.xlh.xlhpackage",
+  "displayName": "XLHFrameWork",
+  "version": "0.0.2",
+  "unity": "2018.3",
+  "unityRelease": "0f1",
+  "description": "This is Test Package",
+  "keywords": [
+    "Test",
+    "Package"
+  ],
+  "author": "TechX",
+  "dependencies": {
+    "com.unity.scriptablebuildpipeline": "2.4.3",
+    "com.unity.inputsystem": "1.14.2",
+    "com.unity.nuget.newtonsoft-json": "3.2.2",
+    "com.code-philosophy.hybridclr": "8.11.0"
+  },
+  "samples": []
+}
